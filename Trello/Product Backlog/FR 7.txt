@@ -1,0 +1,4 @@
+Card ID: FR 7
+Title: Work on Assigned Tasks for Developer
+Description: As a Developer, I want to work on assigned tasks so that I can complete my responsibilities efficiently.
+Status: Backlog
