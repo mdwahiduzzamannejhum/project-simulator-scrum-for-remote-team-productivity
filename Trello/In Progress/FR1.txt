@@ -1,0 +1,6 @@
+Card ID: FR 1
+Title: Manage Product Backlog Creator for Project Manager
+Actor: Project Manager
+Description: As a Project Manager, I want to manage the product backlog so that I can organize all project tasks efficiently.
+Status: In Progress
+Priority:  High
